@@ -9,5 +9,5 @@ Aulas salvas:
  - Aula 16: Tuplas.
  - Exercícios do 72 ao 77.
 
-Curso em vídeo curso gratuito de Python
+**Curso em Vídeo** - curso gratuito de Python
 https://youtube.com/c/CursoemV%C3%ADdeo

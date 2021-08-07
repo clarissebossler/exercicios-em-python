@@ -8,6 +8,8 @@ Aulas salvas:
  - Exercícios do 78 ao 89.
  - Aula 16: Tuplas.
  - Exercícios do 72 ao 77.
+ - Aula 15: Interrompendo estruturas de repetição.
+ - Exercícios do 66 ao 71.
 
 **Curso em Vídeo** - curso gratuito de Python
 https://youtube.com/c/CursoemV%C3%ADdeo

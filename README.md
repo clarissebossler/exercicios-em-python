@@ -13,3 +13,6 @@ Aulas salvas:
 
 **Curso em Vídeo** - curso gratuito de Python
 https://youtube.com/c/CursoemV%C3%ADdeo
+
+*Melhor visualizado em colab.research.google.com
+(link nos arquivos)*
